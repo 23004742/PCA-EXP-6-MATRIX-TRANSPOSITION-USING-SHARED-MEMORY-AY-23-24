@@ -1,9 +1,9 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
 
-<h3>ENTER YOUR NAME : T Ajay </h3>
-<h3>ENTER YOUR REGISTER NO : 212223230007 </h3>
+<h3>ENTER YOUR NAME : L yagnesh kumar reddy </h3>
+<h3>ENTER YOUR REGISTER NO : 212223100024</h3>
 <h3>EX. NO : 6</h3>
-<h3>DATE : 14.11.2025</h3>
+<h3>DATE : 27.11.2025</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
